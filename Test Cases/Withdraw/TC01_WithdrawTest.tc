@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_WithdrawTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32b9b9ab-8854-4cac-8e69-ff62a1bf708a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f0656f8-f096-441e-954f-f95c7c16b35b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Welcome'</defaultValue>
+      <description></description>
+      <id>1f0656f8-f096-441e-954f-f95c7c16b35b</id>
+      <masked>false</masked>
+      <name>loginsuccess</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_WithdrawExcessAmountTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46a109dc-c27c-48eb-b3fb-c2496ab7a7fc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>978a6503-5f39-410d-ae78-8ce3c85239a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Welcome'</defaultValue>
+      <description></description>
+      <id>978a6503-5f39-410d-ae78-8ce3c85239a6</id>
+      <masked>false</masked>
+      <name>loginsuccess</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_LoginTest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f1dfd16-588c-4ecf-8b65-b3ee7e1b77e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c4ac089f-7dfe-4e02-84e3-b9e27e1e616e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Welcome'</defaultValue>
+      <description></description>
+      <id>c4ac089f-7dfe-4e02-84e3-b9e27e1e616e</id>
+      <masked>false</masked>
+      <name>loginsuccess</name>
+   </variable>
+</TestCaseEntity>
